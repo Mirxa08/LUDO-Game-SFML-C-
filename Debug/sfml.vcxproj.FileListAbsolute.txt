@@ -1,0 +1,4 @@
+C:\Users\ACER\source\repos\sfml\Debug\sfml.exe
+C:\Users\ACER\source\repos\sfml\Debug\sfml.pdb
+C:\Users\ACER\OneDrive\Desktop\sfml\Debug\sfml.exe
+C:\Users\ACER\OneDrive\Desktop\sfml\Debug\sfml.pdb

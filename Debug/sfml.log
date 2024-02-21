@@ -1,0 +1,421 @@
+﻿  sfml.cpp
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(541,41): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(548,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(564,40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(679,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(679,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(688,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(688,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(697,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(697,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(706,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(706,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(715,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(715,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(724,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(724,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(875,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(875,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(884,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(884,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(893,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(893,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(902,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(902,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(911,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(911,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(920,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(920,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1071,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1071,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1080,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1080,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1089,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1089,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1098,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1098,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1107,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1107,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1116,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1116,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1266,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1266,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1275,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1275,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1284,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1284,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1293,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1293,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1302,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1302,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1311,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1311,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1445,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1445,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1447,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1452,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1452,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1454,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1459,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1459,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1461,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1466,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1466,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1468,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1473,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1473,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1475,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1480,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1480,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1482,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1487,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1487,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1489,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1494,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1494,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1496,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1507,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1507,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1509,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1514,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1514,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1516,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1521,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1521,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1523,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1528,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1528,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1530,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1535,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1535,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1537,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1542,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1542,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1544,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1549,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1549,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1551,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1556,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1556,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1558,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1598,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1598,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1600,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1614,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1614,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1616,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1630,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1630,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1632,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1646,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1646,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1648,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1662,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1662,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1664,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1678,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1678,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1680,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1694,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1694,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1696,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1711,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1711,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1713,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1727,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1727,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1729,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1743,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1743,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1745,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1760,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1760,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1762,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1776,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1776,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1778,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1792,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1792,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1794,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1808,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1808,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1810,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1825,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1825,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1827,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1841,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1841,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1843,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1878,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1879,40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1906,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1920,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1938,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1944,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1950,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1956,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1995,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(2002,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(2009,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(2016,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1875,78): warning C4101: 'NEELA': unreferenced local variable
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1875,72): warning C4101: 'HARA': unreferenced local variable
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1875,60): warning C4101: 'LAL': unreferenced local variable
+C:\Users\ACER\OneDrive\Desktop\sfml\sfml.cpp(1875,65): warning C4101: 'PEELA': unreferenced local variable
+  sfml.vcxproj -> C:\Users\ACER\OneDrive\Desktop\sfml\Debug\sfml.exe
